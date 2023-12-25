@@ -1,0 +1,12 @@
+html, body{
+    height: 100%;
+}
+body, html{
+    background-image: url(https://rare-gallery.com/uploads/posts/1006469-mountains-sunset-rock-nature-sunrise-Yosemite-National-Park-valley-Alps-Yosemite-Falls-summit-Terrain-mountain-dawn-atmospheric-phenomenon-mountainous-landforms-landfor.jpg);
+    background-size: cover;
+}
+.Login{
+    background-color: rgb(236, 240, 241, 0.35);
+    width: 100%;
+    max-width: 450px;
+}
